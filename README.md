@@ -5,8 +5,9 @@ Landing page promocional desenvolvida para o evento de lançamento da linha Redm
 O projeto simula uma página oficial de lançamento, destacando os diferenciais dos dispositivos por meio de vídeos, contagem regressiva e interações dinâmicas.
 
 ---
+
 ## 🔗 Acesse o projeto:
-https://herbertis.github.io/redmi-note-13/
+https://herbertis.github.io/lancaomento-redmi-note-13/
 
 ---
 
