@@ -1,4 +1,4 @@
-# 📱 Redmi Note 13 Series – Landing Page
+# 📱 Lançamento Redmi Note 13 Series – Landing Page
 
 Landing page promocional desenvolvida para o evento de lançamento da linha Redmi Note 13, com foco em impacto visual, engajamento e captação de leads.
 
