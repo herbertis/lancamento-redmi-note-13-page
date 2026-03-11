@@ -7,7 +7,7 @@ O projeto simula uma página oficial de lançamento, destacando os diferenciais 
 ---
 
 ## 🔗 Acesse o projeto:
-https://herbertis.github.io/lancaomento-redmi-note-13/
+https://herbertis.github.io/lancamento-redmi-note-13-page/
 
 ---
 
